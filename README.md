@@ -7,20 +7,26 @@ Using repo to track and comment on my developer education path.
 I'll make issues to include references with a link, comments and related information about articles found on the internet.
 
 ## Tags
-1. HTML
+*[HTML](https://github.com/johnpdang/dev-education/labels/HTML)
 
-2. CSS
-  SASS
-  SCSS
+*[CSS](https://github.com/johnpdang/dev-education/labels/CSS)
 
-3. JavaScript
-  React
-  Node JS
+   SASS
+   
+    SCSS
 
-4. QA/Testing
+*[JavaScript]()
 
-5. Performance
+    React
+   
+    Node JS
 
-6. Programming/Software Development
+*[QA/Testing]()
+
+*[Performance]()
+
+*[Programming/Software Development]()
   
-6. Miscellaneous
+*[Miscellaneous]()
+
+    Cheat Sheets
