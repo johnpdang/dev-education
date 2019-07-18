@@ -1,6 +1,6 @@
 # dev-education
 
-Using repo to track and comment on my developer education path.
+Using repo to track/bookmark and comment on my developer education path.
 
 ## Issues
 
