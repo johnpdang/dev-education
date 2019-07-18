@@ -1,4 +1,4 @@
-# dev-education
+# Dev education
 
 Using repo to track/bookmark and comment on my developer education path.
 
