@@ -24,7 +24,11 @@ I'll make issues to include references with a link, comments and related informa
 * [QA/Testing](https://github.com/johnpdang/dev-education/labels/QA)
 
 * [Performance](https://github.com/johnpdang/dev-education/labels/Performance)
+
+   Productivity
   
 * [Miscellaneous](https://github.com/johnpdang/dev-education/labels/Misc)
+   
+   Frontend
 
     [Cheat Sheets](https://github.com/johnpdang/dev-education/labels/cheatsheets)
