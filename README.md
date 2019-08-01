@@ -27,4 +27,4 @@ I'll make issues to include references with a link, comments and related informa
   
 * [Miscellaneous](https://github.com/johnpdang/dev-education/labels/Misc)
 
-    Cheat Sheets
+    [Cheat Sheets](https://github.com/johnpdang/dev-education/labels/cheatsheets)
