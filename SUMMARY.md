@@ -12,15 +12,15 @@
     * [A Beginner’s Guide to Understanding JavaScript Closures](dev/javascript/closures/a-beginners-guide-to-understanding-javascript-closures.md)
 * [Untitled](dev/untitled.md)
 
-## Nutrition
+## HTML
 
-* [Untitled](nutrition/untitled.md)
+* [Untitled](html/untitled.md)
 
-## Fitness
+## css
 
-* [Untitled](fitness/untitled.md)
+* [Untitled](css/untitled.md)
 
-## Mindset
+## accessibility
 
-* [Untitled](mindset/untitled.md)
+* [Untitled](accessibility/untitled.md)
 
