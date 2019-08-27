@@ -6,7 +6,8 @@
 ## Dev
 
 * [HTML](dev/html.md)
-* [CSS](dev/css.md)
+* [CSS](dev/css/README.md)
+  * [Scroll Snapping](dev/css/scroll-snapping.md)
 * [Javascript](dev/javascript/README.md)
   * [Functions](dev/javascript/functions.md)
   * [Objects](dev/javascript/objects.md)

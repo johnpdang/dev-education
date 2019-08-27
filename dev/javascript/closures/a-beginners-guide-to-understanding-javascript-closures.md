@@ -1,9 +1,12 @@
 ---
 description: >-
-  https://itnext.io/a-beginners-guide-to-understanding-javascript-closures-b5eb57fdbeb4
+  Closures are one of those topics that will likely pop up in any JavaScript
+  interview you ever go on. Understanding them is key.
 ---
 
 # A Beginner’s Guide to Understanding JavaScript Closures
+
+[https://itnext.io/a-beginners-guide-to-understanding-javascript-closures-b5eb57fdbeb4](https://itnext.io/a-beginners-guide-to-understanding-javascript-closures-b5eb57fdbeb4)
 
 Closures are one of those topics that will pop up in most JavaScript interviews. Developers who are just starting out are usually scared of them \(I know I was\), but there’s no reason to be. Like [recursion](https://medium.freecodecamp.org/recursion-in-javascript-1608032c7a1f), closures can be over explained in a way that makes them sound complex, but at their core they couldn’t be simpler. And I’ll prove it by writing one in 6 lines.
 
@@ -109,8 +112,4 @@ myClosure(5)
 `x` is defined in our `outside` function, so anything in the global scope can’t reach down into it and change it. When we tried to reassign `x` to 4, that’s actually a different `x` variable which now exists separately in our global scope and does not affect how `myClosure` works at all.
 
 As you can see the basics of closures are simple: they just rely on scopes being able to reach up, but not down. Now that you know the basics, try learning about how [Immediately Invoked Function Expressions \(IIFEs\)](https://blog.mgechev.com/2012/08/29/self-invoking-functions-in-javascript-or-immediately-invoked-function-expression/) use closures to create something simple and useful: [an untouchable counter](https://www.w3schools.com/js/js_function_closures.asp).
-
-Happy coding everyone,
-
-Mike
 
