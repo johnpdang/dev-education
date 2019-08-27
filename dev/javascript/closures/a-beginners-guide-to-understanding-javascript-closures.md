@@ -4,9 +4,9 @@ description: >-
   interview you ever go on. Understanding them is key.
 ---
 
-# A Beginner’s Guide to Understanding JavaScript Closures
+# Understanding JavaScript Closures
 
-[https://itnext.io/a-beginners-guide-to-understanding-javascript-closures-b5eb57fdbeb4](https://itnext.io/a-beginners-guide-to-understanding-javascript-closures-b5eb57fdbeb4)
+{% embed url="https://itnext.io/a-beginners-guide-to-understanding-javascript-closures-b5eb57fdbeb4" %}
 
 Closures are one of those topics that will pop up in most JavaScript interviews. Developers who are just starting out are usually scared of them \(I know I was\), but there’s no reason to be. Like [recursion](https://medium.freecodecamp.org/recursion-in-javascript-1608032c7a1f), closures can be over explained in a way that makes them sound complex, but at their core they couldn’t be simpler. And I’ll prove it by writing one in 6 lines.
 

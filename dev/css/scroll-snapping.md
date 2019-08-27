@@ -1,6 +1,8 @@
 # Scroll Snapping
 
-[https://alligator.io/css/scroll-snapping/](https://alligator.io/css/scroll-snapping/)
+{% embed url="https://alligator.io/css/scroll-snapping/" %}
+
+
 
 Scroll snapping is a technique that you’ve certainly seen already. When implemented irresponsibly it can become extremely annoying and give a very bad browsing experience to the user. When done right though, it can be a great way to display things like image galleries. It used to be only achievable using JavaScript, but, thanks to the new [CSS Scroll Snap module](https://www.w3.org/TR/css-scroll-snap-1/), the effect can now be controlled using CSS.
 
