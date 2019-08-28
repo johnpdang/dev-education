@@ -1,3 +1,7 @@
+---
+description: Hub for all the dev related education.
+---
+
 # Homebase
 
 | alpha | bravo | charlie | delta | echo | foxtrot |
