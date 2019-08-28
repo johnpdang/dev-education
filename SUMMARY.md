@@ -28,3 +28,7 @@
 * [Misc](dev/misc/README.md)
   * [Memes](dev/misc/memes.md)
 
+## Misc
+
+* [Bookmarks](misc/bookmarks.md)
+
