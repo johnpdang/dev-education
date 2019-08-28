@@ -17,6 +17,8 @@
     * [Arrays](dev/javascript/objects/arrays.md)
   * [Closures](dev/javascript/closures/README.md)
     * [Understanding JavaScript Closures](dev/javascript/closures/a-beginners-guide-to-understanding-javascript-closures.md)
+* [Frontend](dev/frontend/README.md)
+  * [Command line / Shell](dev/frontend/command-line-shell.md)
 * [Accessibility](dev/accessibility/README.md)
   * [WCAG 2.1](dev/accessibility/wcag-2.1.md)
 
