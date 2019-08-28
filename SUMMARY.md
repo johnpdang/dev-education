@@ -5,7 +5,9 @@
 
 ## Dev
 
-* [HTML](dev/html.md)
+* [HTML](dev/html/README.md)
+  * [SVG](dev/html/svg/README.md)
+    * [xkcd styled charts](dev/html/svg/xkcd-styled-charts.md)
 * [CSS](dev/css/README.md)
   * [Dynamic colour picking](dev/css/dynamic-colour-picking.md)
   * [Scroll Snapping](dev/css/scroll-snapping.md)
@@ -15,5 +17,6 @@
     * [Arrays](dev/javascript/objects/arrays.md)
   * [Closures](dev/javascript/closures/README.md)
     * [Understanding JavaScript Closures](dev/javascript/closures/a-beginners-guide-to-understanding-javascript-closures.md)
-* [Accessibility](dev/accessibility.md)
+* [Accessibility](dev/accessibility/README.md)
+  * [WCAG 2.1](dev/accessibility/wcag-2.1.md)
 
