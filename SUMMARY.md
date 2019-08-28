@@ -1,7 +1,6 @@
 # Table of contents
 
 * [Homebase](README.md)
-* [Productivity](untitled.md)
 
 ## Dev
 
@@ -9,6 +8,8 @@
   * [SVG](dev/html/svg/README.md)
     * [xkcd styled charts](dev/html/svg/xkcd-styled-charts.md)
 * [CSS](dev/css/README.md)
+  * [Flexbox](dev/css/flexbox.md)
+  * [Cheatsheet](dev/css/cheatsheet.md)
   * [Dynamic colour picking](dev/css/dynamic-colour-picking.md)
   * [Scroll Snapping](dev/css/scroll-snapping.md)
 * [Javascript](dev/javascript/README.md)
@@ -21,4 +22,8 @@
   * [Command line / Shell](dev/frontend/command-line-shell.md)
 * [Accessibility](dev/accessibility/README.md)
   * [WCAG 2.1](dev/accessibility/wcag-2.1.md)
+* [Performance](dev/productivity/README.md)
+  * [Productivity](dev/productivity/productivity.md)
+* [Misc](dev/misc/README.md)
+  * [Memes](dev/misc/memes.md)
 
