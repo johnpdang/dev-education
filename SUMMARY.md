@@ -21,6 +21,8 @@
   * [Closures](dev/javascript/closures/README.md)
     * [Understanding JavaScript Closures](dev/javascript/closures/a-beginners-guide-to-understanding-javascript-closures.md)
 * [HTML](dev/html/README.md)
+  * [Markdown](dev/html/markdown.md)
+  * [Quotes](dev/html/quotes.md)
   * [SVG](dev/html/svg/README.md)
     * [xkcd styled charts](dev/html/svg/xkcd-styled-charts.md)
 * [Frontend](dev/frontend-1/README.md)
