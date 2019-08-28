@@ -8,6 +8,7 @@
   * [SVG](dev/html/svg/README.md)
     * [xkcd styled charts](dev/html/svg/xkcd-styled-charts.md)
 * [CSS](dev/css/README.md)
+  * [Animation: Hamburger Menu](dev/css/animation-hamburger-menu.md)
   * [Flexbox](dev/css/flexbox.md)
   * [Cheatsheet](dev/css/cheatsheet.md)
   * [Dynamic colour picking](dev/css/dynamic-colour-picking.md)
