@@ -19,6 +19,7 @@
   * [Command line / Shell](dev/frontend/command-line-shell.md)
 * [Javascript](dev/javascript/README.md)
   * [Functions](dev/javascript/functions.md)
+  * [jQuery to vanilla JavaScript](dev/javascript/jquery-to-vanilla-javascript.md)
   * [Objects](dev/javascript/objects/README.md)
     * [Arrays](dev/javascript/objects/arrays.md)
   * [Closures](dev/javascript/closures/README.md)
