@@ -45,7 +45,8 @@
   * [Themes](dev/wordpress/themes/README.md)
     * [Divi](dev/wordpress/themes/divi.md)
   * [Plugins](dev/wordpress/plugins/README.md)
-    * [Gravity forms](dev/wordpress/plugins/gravity-forms.md)
     * [Advanced custom fields](dev/wordpress/plugins/advanced-custom-fields.md)
+    * [Gravity forms](dev/wordpress/plugins/gravity-forms.md)
+    * [Migrate db pro](dev/wordpress/plugins/migrate-db-pro.md)
     * [Post types order](dev/wordpress/plugins/post-types-order.md)
 
