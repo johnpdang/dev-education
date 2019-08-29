@@ -38,6 +38,7 @@
   * [Command line](dev/frontend-1/command-line.md)
 * [Misc](dev/misc/README.md)
   * [Bookmarks](dev/misc/bookmarks.md)
+  * [Front-End Skills 2019](dev/misc/front-end-skills-2019.md)
   * [Memes](dev/misc/memes.md)
 * [Performance](dev/productivity/README.md)
   * [Productivity](dev/productivity/productivity.md)
