@@ -24,6 +24,8 @@
   * [Objects](dev/javascript/objects/README.md)
     * [Arrays](dev/javascript/objects/arrays.md)
     * [Flatten Array](dev/javascript/objects/flatten-array.md)
+  * [React](dev/javascript/react/README.md)
+    * [Slider with Parallax Hover](dev/javascript/react/slider-with-parallax-hover.md)
   * [Closures](dev/javascript/closures/README.md)
     * [Understanding JavaScript Closures](dev/javascript/closures/a-beginners-guide-to-understanding-javascript-closures.md)
 * [HTML](dev/html/README.md)
