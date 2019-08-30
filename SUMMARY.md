@@ -6,6 +6,7 @@
 
 * [Accessibility](dev/accessibility/README.md)
   * [WCAG 2.1](dev/accessibility/wcag-2.1.md)
+  * [Accessibility insights](dev/accessibility/accessibility-insights.md)
 * [CSS](dev/css/README.md)
   * [Animation: Hamburger Menu](dev/css/animation-hamburger-menu.md)
   * [Flexbox](dev/css/flexbox.md)
@@ -21,6 +22,10 @@
     * [Extensions](dev/frontend/vscode/extensions/README.md)
       * [todo](dev/frontend/vscode/extensions/todo.md)
   * [Command line / Shell](dev/frontend/command-line-shell.md)
+  * [Resources](dev/frontend/resources/README.md)
+    * [ColorSlurp](dev/frontend/resources/colorslurp.md)
+    * [Compress or die](dev/frontend/resources/compress-or-die.md)
+    * [Use contrast](dev/frontend/resources/use-contrast.md)
 * [Javascript](dev/javascript/README.md)
   * [Functions](dev/javascript/functions.md)
   * [jQuery to vanilla JavaScript](dev/javascript/jquery-to-vanilla-javascript.md)
