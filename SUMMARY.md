@@ -51,6 +51,7 @@
 * [Misc](dev/misc/README.md)
   * [Bookmarks](dev/misc/bookmarks/README.md)
     * [The exocortex](dev/misc/bookmarks/the-exocortex.md)
+    * [The lean web](dev/misc/bookmarks/the-lean-web.md)
     * [Front-End Skills 2019](dev/misc/bookmarks/front-end-skills-2019.md)
   * [Memes](dev/misc/memes.md)
 * [Performance](dev/productivity/README.md)
