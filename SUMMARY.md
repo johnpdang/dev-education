@@ -36,6 +36,7 @@
   * [Markdown](dev/html/markdown.md)
   * [Quotes](dev/html/quotes.md)
 * [Javascript](dev/javascript/README.md)
+  * [Regular expression](dev/javascript/regular-expression.md)
   * [Animation](dev/javascript/animation/README.md)
     * [Animations using Greensock](dev/javascript/animation/animations-using-greensock.md)
   * [Functions](dev/javascript/functions.md)
