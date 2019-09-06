@@ -47,6 +47,7 @@
   * [jQuery to vanilla JavaScript](dev/javascript/jquery-to-vanilla-javascript.md)
   * [Objects](dev/javascript/objects/README.md)
     * [Arrays](dev/javascript/objects/arrays.md)
+    * [Array Methods](dev/javascript/objects/array-methods.md)
     * [Flatten Array](dev/javascript/objects/flatten-array.md)
   * [React](dev/javascript/react/README.md)
     * [Redux](dev/javascript/react/redux.md)
