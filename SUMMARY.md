@@ -11,6 +11,7 @@
   * [Animation: Hamburger Menu](dev/css/animation-hamburger-menu.md)
   * [Animating text](dev/css/animating-text.md)
   * [Cheatsheet](dev/css/cheatsheet.md)
+  * [Component Driven Development](dev/css/component-driven-development-cdd.md)
   * [Dynamic colour picking](dev/css/dynamic-colour-picking.md)
   * [Fade in content](dev/css/fade-in-content.md)
   * [Flexbox](dev/css/flexbox.md)
