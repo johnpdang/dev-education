@@ -63,6 +63,7 @@
 * [Performance](dev/productivity/README.md)
   * [Productivity](dev/productivity/productivity.md)
 * [Wordpress](dev/wordpress/README.md)
+  * [Development](dev/wordpress/development.md)
   * [Themes](dev/wordpress/themes/README.md)
     * [Divi](dev/wordpress/themes/divi.md)
   * [Plugins](dev/wordpress/plugins/README.md)
