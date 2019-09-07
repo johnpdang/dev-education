@@ -20,6 +20,7 @@
   * [Scroll Snapping](dev/css/scroll-snapping.md)
   * [The Programmer’s Guide to the Stylesheet](dev/css/the-programmers-guide-to-the-stylesheet.md)
 * [Frontend](dev/frontend/README.md)
+  * [Abbreviations](dev/frontend/abbreviations.md)
   * [Command line / Shell](dev/frontend/command-line-shell.md)
   * [Git](dev/frontend/git/README.md)
     * [Learn git brancing](dev/frontend/git/learn-git-brancing.md)
