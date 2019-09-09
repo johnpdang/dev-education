@@ -10,6 +10,7 @@
 * [CSS](dev/css/README.md)
   * [Animation: Hamburger Menu](dev/css/animation-hamburger-menu.md)
   * [Animating text](dev/css/animating-text.md)
+  * [Box Shadow Generator](dev/css/box-shadow-generator.md)
   * [Cheatsheet](dev/css/cheatsheet.md)
   * [Component Driven Development](dev/css/component-driven-development-cdd.md)
   * [Dynamic colour picking](dev/css/dynamic-colour-picking.md)
