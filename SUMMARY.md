@@ -51,6 +51,7 @@
     * [Front-End Skills 2019](dev/misc/bookmarks/front-end-skills-2019.md)
   * [Memes](dev/misc/memes.md)
 * [Performance](dev/productivity/README.md)
+  * [Interviewing](dev/productivity/interviewing.md)
   * [Productivity](dev/productivity/productivity.md)
 * [Javascript](dev/javascript/README.md)
   * [Animation](dev/javascript/animation/README.md)
