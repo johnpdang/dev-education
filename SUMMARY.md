@@ -49,6 +49,8 @@
     * [The lean web](dev/misc/bookmarks/the-lean-web.md)
     * [The Ultimate Guide to Finding a Job in Tech](dev/misc/bookmarks/the-ultimate-guide-to-finding-a-job-in-tech.md)
     * [Front-End Skills 2019](dev/misc/bookmarks/front-end-skills-2019.md)
+  * [Cheatsheets](dev/misc/cheatsheets/README.md)
+    * [Markdown](dev/misc/cheatsheets/markdown.md)
   * [Keyboard shortcuts](dev/misc/keyboard-shortcuts.md)
   * [Memes](dev/misc/memes.md)
 * [Performance](dev/productivity/README.md)
