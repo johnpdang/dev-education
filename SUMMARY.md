@@ -70,6 +70,7 @@
     * [Redux](dev/javascript/react/redux.md)
     * [Slider with Parallax Hover](dev/javascript/react/slider-with-parallax-hover.md)
   * [Regular expression](dev/javascript/regular-expression.md)
+  * [Types](dev/javascript/types.md)
 * [Wordpress](dev/wordpress/README.md)
   * [Development](dev/wordpress/development/README.md)
     * [Template Hierarchy](dev/wordpress/development/template-hierarchy.md)
