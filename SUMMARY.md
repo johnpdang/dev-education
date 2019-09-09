@@ -51,6 +51,7 @@
     * [Arrays](dev/javascript/objects/arrays.md)
     * [Array Methods](dev/javascript/objects/array-methods.md)
     * [Flatten Array](dev/javascript/objects/flatten-array.md)
+  * [Promises](dev/javascript/promises.md)
   * [React](dev/javascript/react/README.md)
     * [Redux](dev/javascript/react/redux.md)
     * [Slider with Parallax Hover](dev/javascript/react/slider-with-parallax-hover.md)
