@@ -76,6 +76,7 @@
   * [Types](dev/javascript/types.md)
 * [Wordpress](dev/wordpress/README.md)
   * [Development](dev/wordpress/development/README.md)
+    * [Search](dev/wordpress/development/search.md)
     * [Template Hierarchy](dev/wordpress/development/template-hierarchy.md)
   * [Themes](dev/wordpress/themes/README.md)
     * [Divi](dev/wordpress/themes/divi.md)
