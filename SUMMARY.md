@@ -70,6 +70,8 @@
   * [Objects](dev/javascript/objects/README.md)
     * [Object.create\(null\)](dev/javascript/objects/object.create-null.md)
     * [Object.prototype.toString\(\)](dev/javascript/objects/object.prototype.tostring.md)
+  * [Numbers](dev/javascript/numbers/README.md)
+    * [Number.prototype.toFixed\(\)](dev/javascript/numbers/number.prototype.tofixed.md)
   * [Promises](dev/javascript/promises.md)
   * [React](dev/javascript/react/README.md)
     * [Redux](dev/javascript/react/redux.md)
