@@ -82,7 +82,10 @@
     * [Divi](dev/wordpress/themes/divi.md)
   * [Plugins](dev/wordpress/plugins/README.md)
     * [Advanced custom fields](dev/wordpress/plugins/advanced-custom-fields.md)
+    * [Enhanced Category Pages](dev/wordpress/plugins/enhanced-category-pages.md)
+    * [Enhanced Media Library](dev/wordpress/plugins/enhanced-media-library.md)
     * [Gravity forms](dev/wordpress/plugins/gravity-forms.md)
+    * [Meta Box](dev/wordpress/plugins/meta-box.md)
     * [Migrate db pro](dev/wordpress/plugins/migrate-db-pro.md)
     * [Post types order](dev/wordpress/plugins/post-types-order.md)
 
