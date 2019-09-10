@@ -75,6 +75,8 @@
     * [Redux](dev/javascript/react/redux.md)
     * [Slider with Parallax Hover](dev/javascript/react/slider-with-parallax-hover.md)
   * [Regular expression](dev/javascript/regular-expression.md)
+  * [String](dev/javascript/string/README.md)
+    * [String.prototype.length](dev/javascript/string/string.prototype.length.md)
   * [Types](dev/javascript/types.md)
 * [Wordpress](dev/wordpress/README.md)
   * [Development](dev/wordpress/development/README.md)
