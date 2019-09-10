@@ -34,6 +34,7 @@
     * [Boilerplate](dev/frontend/npm-webpack/boilerplate.md)
   * [SVG](dev/frontend/svg/README.md)
     * [Advanced SVG Animations](dev/frontend/svg/advanced-svg-animations.md)
+    * [Using SVG](dev/frontend/svg/using-svg.md)
     * [xkcd styled charts](dev/frontend/svg/xkcd-styled-charts.md)
   * [VSCode](dev/frontend/vscode/README.md)
     * [Extensions](dev/frontend/vscode/extensions/README.md)
