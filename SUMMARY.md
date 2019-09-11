@@ -95,6 +95,8 @@
   * [Memes](dev/misc/memes.md)
 * [Performance](dev/productivity/README.md)
   * [Interviewing](dev/productivity/interviewing.md)
+  * [Optimization](dev/productivity/optimization/README.md)
+    * [Fighting with Google PageSpeed](dev/productivity/optimization/fighting-with-google-pagespeed.md)
   * [Productivity](dev/productivity/productivity.md)
 * [Wordpress](dev/wordpress/README.md)
   * [Development](dev/wordpress/development/README.md)
