@@ -25,6 +25,8 @@
   * [Terms](dev/frontend/terms.md)
   * [Command line / Shell](dev/frontend/command-line-shell.md)
   * [Git](dev/frontend/git/README.md)
+    * [Git crash course](dev/frontend/git/git-crash-course.md)
+    * [Git tutorials](dev/frontend/git/git-tutorials.md)
     * [Learn git brancing](dev/frontend/git/learn-git-brancing.md)
   * [Resources](dev/frontend/resources/README.md)
     * [ColorSlurp](dev/frontend/resources/colorslurp.md)
