@@ -81,6 +81,7 @@
     * [Redux](dev/javascript/react/redux.md)
     * [Slider with Parallax Hover](dev/javascript/react/slider-with-parallax-hover.md)
   * [Regular expression](dev/javascript/regular-expression.md)
+  * [Slick slider](dev/javascript/slick-slider.md)
   * [String](dev/javascript/string/README.md)
     * [String.prototype.length](dev/javascript/string/string.prototype.length.md)
   * [Types](dev/javascript/types.md)
