@@ -52,6 +52,7 @@
   * [Closures](dev/javascript/closures/README.md)
     * [Understanding JavaScript Closures](dev/javascript/closures/a-beginners-guide-to-understanding-javascript-closures.md)
   * [Date](dev/javascript/date.md)
+  * [Drag & Drop Elements](dev/javascript/drag-and-drop-elements.md)
   * [Error](dev/javascript/error.md)
   * [Functions](dev/javascript/functions.md)
   * [jQuery to vanilla JavaScript](dev/javascript/jquery-to-vanilla-javascript.md)
