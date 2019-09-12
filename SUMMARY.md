@@ -65,6 +65,7 @@
   * [Boolean](dev/javascript/boolean.md)
   * [Closures](dev/javascript/closures/README.md)
     * [Understanding JavaScript Closures](dev/javascript/closures/a-beginners-guide-to-understanding-javascript-closures.md)
+  * [D3.js](dev/javascript/d3.js.md)
   * [Date](dev/javascript/date.md)
   * [Drag & Drop Elements](dev/javascript/drag-and-drop-elements.md)
   * [Error](dev/javascript/error.md)
