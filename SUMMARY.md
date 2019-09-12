@@ -94,6 +94,7 @@
 * [Misc](dev/misc/README.md)
   * [Bookmarks](dev/misc/bookmarks/README.md)
     * [36 Essential Tools for JavaScript 2019](dev/misc/bookmarks/36-essential-tools-for-javascript-2019.md)
+    * [The Standard of Code Review](dev/misc/bookmarks/the-standard-of-code-review.md)
     * [Realworld](dev/misc/bookmarks/realworld.md)
     * [The exocortex](dev/misc/bookmarks/the-exocortex.md)
     * [The lean web](dev/misc/bookmarks/the-lean-web.md)
