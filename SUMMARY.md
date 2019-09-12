@@ -35,6 +35,7 @@
   * [Git](dev/frontend/git/README.md)
     * [Git crash course](dev/frontend/git/git-crash-course.md)
     * [Git tutorials](dev/frontend/git/git-tutorials.md)
+    * [bash profile aliases](dev/frontend/git/bash-profile-aliases.md)
     * [Learn git brancing](dev/frontend/git/learn-git-brancing.md)
   * [Resources](dev/frontend/resources/README.md)
     * [ColorSlurp](dev/frontend/resources/colorslurp.md)
