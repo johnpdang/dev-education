@@ -29,6 +29,7 @@
   * [Frameworks](dev/css/frameworks/README.md)
     * [Best frameworks 2019](dev/css/frameworks/best-frameworks-2019.md)
   * [Scroll Snapping](dev/css/scroll-snapping.md)
+  * [Selectors in JS](dev/css/selectors-in-js.md)
   * [The Programmer’s Guide to the Stylesheet](dev/css/the-programmers-guide-to-the-stylesheet.md)
   * [Media queries](dev/css/media-queries.md)
   * [Beginner's guide to media queries](dev/css/beginners-guide-to-media-queries.md)
