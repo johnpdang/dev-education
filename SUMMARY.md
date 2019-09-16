@@ -87,6 +87,7 @@
   * [Error](dev/javascript/error.md)
   * [Functions](dev/javascript/functions.md)
   * [jQuery](dev/javascript/jquery/README.md)
+    * [Equal element heights](dev/javascript/jquery/equal-element-heights.md)
     * [You might not need jQuery](dev/javascript/jquery/you-might-not-need-jquery.md)
     * [jQuery to vanilla JavaScript](dev/javascript/jquery/jquery-to-vanilla-javascript.md)
   * [Libraries](dev/javascript/libraries/README.md)
