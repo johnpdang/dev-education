@@ -106,6 +106,7 @@
   * [Slick slider](dev/javascript/slick-slider.md)
   * [String](dev/javascript/string/README.md)
     * [.padEnd\(\)](dev/javascript/string/.padend.md)
+    * [.padStart\(\)](dev/javascript/string/.padstart.md)
     * [.startsWith\(\)](dev/javascript/string/.startswith.md)
     * [String.prototype.length](dev/javascript/string/string.prototype.length.md)
   * [Types](dev/javascript/types.md)
