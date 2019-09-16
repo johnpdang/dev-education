@@ -5,8 +5,9 @@
 ## Dev
 
 * [Accessibility](dev/accessibility/README.md)
-  * [WCAG 2.1](dev/accessibility/wcag-2.1.md)
   * [Accessibility insights](dev/accessibility/accessibility-insights.md)
+  * [Accessibility Non-Compliance](dev/accessibility/accessibility-non-compliance.md)
+  * [WCAG 2.1](dev/accessibility/wcag-2.1.md)
 * [Browsers](dev/browsers/README.md)
   * [Chrome](dev/browsers/chrome/README.md)
     * [Extensions](dev/browsers/chrome/extensions/README.md)
