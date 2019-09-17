@@ -36,6 +36,7 @@
   * [Beginner's guide to media queries](dev/css/beginners-guide-to-media-queries.md)
 * [Development](dev/development/README.md)
   * [Bookmarks](dev/development/bookmarks/README.md)
+    * [10 Simple & Effective tips to master JavaScript](dev/development/bookmarks/10-simple-and-effective-tips-to-master-javascript.md)
     * [36 Essential Tools for JavaScript 2019](dev/development/bookmarks/36-essential-tools-for-javascript-2019.md)
     * [The Standard of Code Review](dev/development/bookmarks/the-standard-of-code-review.md)
     * [Realworld](dev/development/bookmarks/realworld.md)
