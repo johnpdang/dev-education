@@ -126,6 +126,7 @@
   * [Productivity](dev/productivity/productivity.md)
 * [Wordpress](dev/wordpress/README.md)
   * [Development](dev/wordpress/development/README.md)
+    * [Snippets](dev/wordpress/development/snippets.md)
     * [Search](dev/wordpress/development/search.md)
     * [Template Hierarchy](dev/wordpress/development/template-hierarchy.md)
   * [Themes](dev/wordpress/themes/README.md)
