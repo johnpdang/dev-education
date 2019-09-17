@@ -120,6 +120,8 @@
     * [NATO phonetic alphabet](dev/misc/cheatsheets/nato-phonetic-alphabet.md)
   * [Gifs](dev/misc/gifs.md)
   * [Memes](dev/misc/memes.md)
+* [SEO](dev/seo/README.md)
+  * [Evolving “nofollow”](dev/seo/evolving-nofollow.md)
 * [Performance](dev/productivity/README.md)
   * [Interviewing](dev/productivity/interviewing.md)
   * [Optimization](dev/productivity/optimization/README.md)
