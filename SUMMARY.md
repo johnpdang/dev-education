@@ -51,6 +51,7 @@
     * [7 Advices after 10 years of development](dev/development/bookmarks/7-advices-after-10-years-of-development.md)
     * [Front-End Skills 2019](dev/development/bookmarks/front-end-skills-2019.md)
   * [Command line / Shell](dev/development/command-line-shell/README.md)
+    * [Git bash aliases](dev/development/command-line-shell/git-bash-aliases.md)
     * [How to Jazz Up Your Bash Terminal](dev/development/command-line-shell/how-to-jazz-up-your-bash-terminal.md)
   * [Frontend](dev/development/frontend/README.md)
     * [Resources](dev/development/frontend/resources/README.md)
