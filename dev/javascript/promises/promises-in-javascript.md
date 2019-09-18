@@ -1,4 +1,4 @@
-# Promises
+# Promises in JavaScript
 
 {% embed url="https://gomakethings.com/promises-in-javascript/" %}
 
