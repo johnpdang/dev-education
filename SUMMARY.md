@@ -81,6 +81,7 @@
   * [Animation](dev/javascript/animation/README.md)
     * [Animations using Greensock](dev/javascript/animation/animations-using-greensock.md)
   * [Arrays](dev/javascript/arrays/README.md)
+    * [.reverse\(\)](dev/javascript/arrays/.reverse.md)
     * [Array Methods](dev/javascript/arrays/array-methods.md)
     * [Flatten Array](dev/javascript/arrays/flatten-array.md)
   * [Boolean](dev/javascript/boolean.md)
