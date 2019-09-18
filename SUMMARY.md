@@ -87,6 +87,7 @@
     * [.reverse\(\)](dev/javascript/arrays/.reverse.md)
     * [Array Methods](dev/javascript/arrays/array-methods.md)
     * [Flatten Array](dev/javascript/arrays/flatten-array.md)
+    * [Map/Filter/Reduce Crash Course](dev/javascript/arrays/map-filter-reduce-crash-course.md)
   * [Boolean](dev/javascript/boolean.md)
   * [Closures](dev/javascript/closures/README.md)
     * [Understanding JavaScript Closures](dev/javascript/closures/a-beginners-guide-to-understanding-javascript-closures.md)
