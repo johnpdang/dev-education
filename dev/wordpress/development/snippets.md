@@ -9,6 +9,14 @@ endif;
 $output .= '
 ```
 {% endcode-tabs-item %}
+
+{% code-tabs-item title="if h6 form description " %}
+```
+<?php if ($form_desc): ?>
+  <h6 class="footer__form__desc"><?php echo $form_desc; ?></h6>
+<?php endif; ?>
+```
+{% endcode-tabs-item %}
 {% endcode-tabs %}
 
 {% code-tabs %}
