@@ -33,6 +33,8 @@
   * [Frameworks](pages/css/frameworks/README.md)
     * [Best frameworks 2019](pages/css/frameworks/best-frameworks-2019.md)
   * [Gradient generator](pages/css/gradient-generator.md)
+  * [SASS](pages/css/sass/README.md)
+    * [@extend](pages/css/sass/extend.md)
   * [Scroll Snapping](pages/css/scroll-snapping.md)
   * [Selectors in JS](pages/css/selectors-in-js.md)
   * [The Programmer’s Guide to the Stylesheet](pages/css/the-programmers-guide-to-the-stylesheet.md)
