@@ -1,4 +1,4 @@
-# Git bash aliases
+# Bash aliases
 
 {% embed url="https://jonsuh.com/blog/git-command-line-shortcuts/" %}
 

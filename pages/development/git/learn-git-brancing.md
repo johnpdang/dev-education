@@ -1,4 +1,4 @@
-# Learn git brancing
+# Learn git branching
 
 {% embed url="https://learngitbranching.js.org/" %}
 
