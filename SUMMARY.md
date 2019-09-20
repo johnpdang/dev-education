@@ -97,6 +97,7 @@
     * [Understanding JavaScript Closures](pages/javascript/closures/a-beginners-guide-to-understanding-javascript-closures.md)
   * [D3.js](pages/javascript/d3.js.md)
   * [Date](pages/javascript/date.md)
+  * [Dom manipulation](pages/javascript/dom-manipulation.md)
   * [Drag & Drop Elements](pages/javascript/drag-and-drop-elements.md)
   * [Error](pages/javascript/error/README.md)
     * [Graceful Error Handling](pages/javascript/error/graceful-error-handling.md)
