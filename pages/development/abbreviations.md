@@ -80,7 +80,7 @@
       <td style="text-align:left"></td>
     </tr>
     <tr>
-      <td style="text-align:left">css</td>
+      <td style="text-align:left">CSS</td>
       <td style="text-align:left">cascading stylesheets</td>
       <td style="text-align:left"></td>
     </tr>
@@ -96,7 +96,7 @@
       <td style="text-align:left"></td>
     </tr>
     <tr>
-      <td style="text-align:left">db</td>
+      <td style="text-align:left">DB</td>
       <td style="text-align:left">database</td>
       <td style="text-align:left"></td>
     </tr>
@@ -197,7 +197,7 @@
       <td style="text-align:left"></td>
     </tr>
     <tr>
-      <td style="text-align:left">php</td>
+      <td style="text-align:left">PHP</td>
       <td style="text-align:left">php: hypertext preprocessor</td>
       <td style="text-align:left"></td>
     </tr>
