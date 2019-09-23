@@ -122,6 +122,7 @@
   * [React](pages/javascript/react/README.md)
     * [Redux](pages/javascript/react/redux.md)
     * [Slider with Parallax Hover](pages/javascript/react/slider-with-parallax-hover.md)
+    * [A Complete Beginner's Guide to React](pages/javascript/react/a-complete-beginners-guide-to-react.md)
   * [Regular expression](pages/javascript/regular-expression.md)
   * [Slick slider](pages/javascript/slick-slider.md)
   * [String](pages/javascript/string/README.md)
