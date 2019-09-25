@@ -148,6 +148,7 @@
 * [Performance](pages/productivity/README.md)
   * [Optimization](pages/productivity/optimization/README.md)
     * [Fighting with Google PageSpeed](pages/productivity/optimization/fighting-with-google-pagespeed.md)
+    * [Image Optimization](pages/productivity/optimization/image-optimization.md)
   * [Productivity](pages/productivity/productivity.md)
 * [QA/Testing](pages/qa-testing.md)
 * [Wordpress](pages/wordpress/README.md)
