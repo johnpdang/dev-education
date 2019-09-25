@@ -55,6 +55,7 @@
     * [7 Advices after 10 years of development](pages/development/bookmarks/7-advices-after-10-years-of-development.md)
     * [Front-End Skills 2019](pages/development/bookmarks/front-end-skills-2019.md)
   * [Command line / Shell](pages/development/command-line-shell/README.md)
+    * [Copy SSH key](pages/development/command-line-shell/copy-ssh-key.md)
     * [How to Jazz Up Your Bash Terminal](pages/development/command-line-shell/how-to-jazz-up-your-bash-terminal.md)
   * [Fullstack](pages/development/fullstack/README.md)
     * [Create your first MERN Stack](pages/development/fullstack/create-your-first-mern-stack.md)
