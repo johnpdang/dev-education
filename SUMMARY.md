@@ -102,6 +102,7 @@
   * [Drag & Drop Elements](pages/javascript/drag-and-drop-elements.md)
   * [Error](pages/javascript/error/README.md)
     * [Graceful Error Handling](pages/javascript/error/graceful-error-handling.md)
+  * [Favicon for dark mode](pages/javascript/favicon-for-dark-mode.md)
   * [Functions](pages/javascript/functions/README.md)
     * [Pocket reference](pages/javascript/functions/pocket-reference.md)
   * [jQuery](pages/javascript/jquery/README.md)
