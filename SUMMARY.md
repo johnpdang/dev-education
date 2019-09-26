@@ -84,6 +84,7 @@
 * [HTML](pages/html/README.md)
   * [DOM](pages/html/dom/README.md)
     * [Aria expanded](pages/html/dom/aria-expanded.md)
+    * [Aria-live](pages/html/dom/aria-live.md)
   * [Favicon](pages/html/favicon.md)
   * [Markdown](pages/html/markdown.md)
   * [Quotes](pages/html/quotes.md)
