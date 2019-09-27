@@ -23,7 +23,6 @@
   * [Shapes](pages/css/shapes.md)
   * [The Programmer’s Guide to the Stylesheet](pages/css/the-programmers-guide-to-the-stylesheet.md)
   * [Media queries](pages/css/media-queries.md)
-  * [Beginner's guide to media queries](pages/css/beginners-guide-to-media-queries.md)
 * [Development](pages/development/README.md)
   * [Abbreviations](pages/development/abbreviations.md)
   * [Bookmarks](pages/development/bookmarks/README.md)
