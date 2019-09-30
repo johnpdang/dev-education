@@ -137,11 +137,7 @@
   * [Productivity](pages/productivity/productivity.md)
 * [QA/Testing](pages/qa-testing.md)
 * [Wordpress](pages/wordpress/README.md)
-  * [Development](pages/wordpress/development/README.md)
-    * [Snippets](pages/wordpress/development/snippets.md)
-    * [Search](pages/wordpress/development/search.md)
-    * [Template Hierarchy](pages/wordpress/development/template-hierarchy.md)
-    * [WP REST API](pages/wordpress/development/wp-rest-api.md)
+  * [Development](pages/wordpress/development.md)
   * [Themes](pages/wordpress/themes.md)
   * [Plugins](pages/wordpress/plugins.md)
 
