@@ -1,8 +1,10 @@
-# .padEnd\(\)
+# String
+
+### .padEnd\(\)
 
 {% embed url="https://medium.com/@samanthaming/padend-string-method-in-javascript-2e170d5b8bde" %}
 
-
+### 
 
 With `padEnd`, it adds characters to the end of a string so it reaches a specified length. This is great for us to add some padding to display our strings in a tabular format. Isn’t it so much easier to read, yay 🍹
 
@@ -20,7 +22,7 @@ The `padEnd` accepts 2 parameters:
 string.padEnd( <length>, <character>)
 ```
 
-### 1st Parameter: Length
+**1st Parameter: Length**
 
 This is the final length of your result string. It is required.
 
@@ -28,7 +30,7 @@ Let’s say you begin with a string that has 3 characters. And you set the lengt
 
 Here’s an example. I’m denoting the space character with `·` to show you the padded space.
 
-### 2nd Parameter: Character
+**2nd Parameter: Character**
 
 This is an optional parameter. As you see from above, the default padded character is an empty space. However, you might want to pad it with a different character. No problem! Just pass it here.
 
@@ -48,7 +50,7 @@ The purpose of string padding is to add characters to a string, so the outcome h
 
 `padStart`
 
-### Watch out! — padding with Emojis
+**Watch out! — padding with Emojis**
 
 If you’re padding with emojis, you might run into this issue.
 
@@ -61,4 +63,18 @@ Notice the last “👋” is not displayed. But instead “�” is shown. Wel
 So if you’re padding with emojis, just be mindful that the emoji might be cut off if you don’t provide it enough length.
 
 * [_@2alin_](https://twitter.com/2alin/status/1150120894758621185)_:_ Just something to add: to have a tabular style use, the font should be mono-space and HTML render will remove any extra space; which makes such application important mainly in the information displayed in the terminal.
+
+### .padStart\(\)
+
+`padStart` adds characters at the start of the string
+
+### .startsWith\(\)
+
+{% embed url="https://medium.com/dailyjs/string-startswith-method-in-javascript-b12ec998eb54" %}
+
+### String.prototype.length
+
+{% embed url="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global\_Objects/String/length" %}
+
+The **`length`** property of a [`String`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String) object indicates the length of a string, in UTF-16 code units.
 
