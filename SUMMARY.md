@@ -117,6 +117,7 @@
   * [Slick slider](pages/javascript/slick-slider.md)
   * [String](pages/javascript/string.md)
   * [Types](pages/javascript/types.md)
+  * [Variables](pages/javascript/variables.md)
 * [Misc](pages/misc/README.md)
   * [Cheatsheets](pages/misc/cheatsheets.md)
   * [Gifs](pages/misc/gifs.md)
