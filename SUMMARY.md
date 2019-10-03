@@ -17,6 +17,7 @@
   * [Flexbox](pages/css/flexbox.md)
   * [Frameworks](pages/css/frameworks.md)
   * [Generators](pages/css/gradient-generator.md)
+  * [Images](pages/css/images.md)
   * [SASS](pages/css/sass.md)
   * [Scroll Snapping](pages/css/scroll-snapping.md)
   * [Selectors in JS](pages/css/selectors-in-js.md)
