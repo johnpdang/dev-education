@@ -4,9 +4,6 @@
 
 ## pages
 
-* [Accessibility](pages/accessibility.md)
-* [Browsers](pages/browsers/README.md)
-  * [Chrome](pages/browsers/chrome.md)
 * [CSS](pages/css/README.md)
   * [Animation](pages/css/animation.md)
   * [Cheatsheet](pages/css/cheatsheet.md)
@@ -121,9 +118,4 @@
 * [Performance](pages/productivity/README.md)
   * [Optimization](pages/productivity/optimization.md)
   * [Productivity](pages/productivity/productivity.md)
-* [QA/Testing](pages/qa-testing.md)
-* [Wordpress](pages/wordpress/README.md)
-  * [Development](pages/wordpress/development.md)
-  * [Themes](pages/wordpress/themes.md)
-  * [Plugins](pages/wordpress/plugins.md)
 
