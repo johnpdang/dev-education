@@ -16,7 +16,6 @@
   * [Generators](pages/css/gradient-generator.md)
   * [Images](pages/css/images.md)
   * [SASS](pages/css/sass.md)
-  * [Scroll Snapping](pages/css/scroll-snapping.md)
   * [Selectors in JS](pages/css/selectors-in-js.md)
   * [Shapes](pages/css/shapes.md)
   * [The Programmer’s Guide to the Stylesheet](pages/css/the-programmers-guide-to-the-stylesheet.md)
