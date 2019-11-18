@@ -1,60 +1,60 @@
 # Quotes
 
-{% code-tabs %}
-{% code-tabs-item title="Left single quote" %}
+{% tabs %}
+{% tab title="Left single quote" %}
 ```text
 &lsquo;
 ```
-{% endcode-tabs-item %}
+{% endtab %}
 
-{% code-tabs-item title="‘" %}
+{% tab title="‘" %}
 ```
 &lsquo;
 ```
-{% endcode-tabs-item %}
-{% endcode-tabs %}
+{% endtab %}
+{% endtabs %}
 
-{% code-tabs %}
-{% code-tabs-item title="Right single quote \(and apostrophe\)" %}
+{% tabs %}
+{% tab title="Right single quote \(and apostrophe\)" %}
 ```text
 &rsquo;
 ```
-{% endcode-tabs-item %}
+{% endtab %}
 
-{% code-tabs-item title="’" %}
+{% tab title="’" %}
 ```
 &rsquo;
 ```
-{% endcode-tabs-item %}
-{% endcode-tabs %}
+{% endtab %}
+{% endtabs %}
 
-{% code-tabs %}
-{% code-tabs-item title="Left double quote" %}
+{% tabs %}
+{% tab title="Left double quote" %}
 ```text
 &ldquo;
 ```
-{% endcode-tabs-item %}
+{% endtab %}
 
-{% code-tabs-item title="“" %}
+{% tab title="“" %}
 ```
 &ldquo;
 ```
-{% endcode-tabs-item %}
-{% endcode-tabs %}
+{% endtab %}
+{% endtabs %}
 
-{% code-tabs %}
-{% code-tabs-item title="Right double quote" %}
+{% tabs %}
+{% tab title="Right double quote" %}
 ```text
 &rdquo;
 ```
-{% endcode-tabs-item %}
+{% endtab %}
 
-{% code-tabs-item title="”" %}
+{% tab title="”" %}
 ```
 &rdquo;
 ```
-{% endcode-tabs-item %}
-{% endcode-tabs %}
+{% endtab %}
+{% endtabs %}
 
 
 

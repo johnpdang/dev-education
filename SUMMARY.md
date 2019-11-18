@@ -104,12 +104,4 @@
   * [String](pages/javascript/string.md)
   * [Types](pages/javascript/types.md)
   * [Variables](pages/javascript/variables.md)
-* [Misc](pages/misc/README.md)
-  * [Cheatsheets](pages/misc/cheatsheets.md)
-  * [Gifs](pages/misc/gifs.md)
-  * [Memes](pages/misc/memes.md)
-* [SEO](pages/seo.md)
-* [Performance](pages/productivity/README.md)
-  * [Optimization](pages/productivity/optimization.md)
-  * [Productivity](pages/productivity/productivity.md)
 
